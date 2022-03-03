@@ -1,0 +1,46 @@
+.logo {
+  width: 5vh;
+  margin-right: 5vh;
+}
+
+ul.hover a:hover {
+  background-color: rgb(184, 57, 235);
+}
+
+.e1 {
+    color: blue;
+}
+.e2 {
+    color: green;
+}
+
+.e3 {
+    color: rgb(88, 6, 88);
+}
+
+.e4 {
+    color: rgb(184, 14, 14);
+}
+
+
+.izq {
+  color: purple;
+}
+
+.izq2 {
+  color: red;
+}
+
+.der {
+  margin-left: 12vh;
+  color: red;
+}
+
+.der2 {
+  margin-left: 12vh;
+  color: aqua;
+}
+
+footer {
+  width: 100%;
+}
