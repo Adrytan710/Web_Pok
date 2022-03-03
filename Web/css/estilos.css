@@ -8,37 +8,39 @@ ul.hover a:hover {
 }
 
 .e1 {
-    color: blue;
+  margin-top: 5vh;
 }
+
+.e1 a, .e1 a:hover {
+  text-decoration: none;
+  color: blue;
+}
+
 .e2 {
-    color: green;
+  margin-top: 5vh;
+}
+
+.e2 a, .e2 a:hover {
+  color: green;
+  text-decoration: none;
 }
 
 .e3 {
-    color: rgb(88, 6, 88);
+  margin-top: 5vh;
+}
+
+.e3 a, .e3 a:hover {
+  color: rgb(180, 18, 180);
+  text-decoration: none;
 }
 
 .e4 {
-    color: rgb(184, 14, 14);
+  margin-top: 5vh;
 }
 
-
-.izq {
-  color: purple;
-}
-
-.izq2 {
-  color: red;
-}
-
-.der {
-  margin-left: 12vh;
-  color: red;
-}
-
-.der2 {
-  margin-left: 12vh;
-  color: aqua;
+.e4 a, .e4 a:hover {
+  color: rgb(184, 14, 14);
+  text-decoration: none;
 }
 
 footer {
